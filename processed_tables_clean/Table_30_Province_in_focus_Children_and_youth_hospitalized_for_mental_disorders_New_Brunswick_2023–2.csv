@@ -1,0 +1,37 @@
+Hospitalized patients,N,Rate,95% CI
+Total stays for mental disorders,1106,631,594–669
+Total patients with mental disorders,815,465,433–497
+Patients with 3 or more stays a year,59,,
+Median length of stay (days),6,,
+Female patients,469,549,499–599
+Male patients,346,386,345–426
+Patients age 5–9,23,56,33–79
+Patients age 10–14,171,398,338–458
+Patients age 15–17,235,912,"796–1,029"
+Patients age 18–24,386,589,530–648
+Patients with neurocognitive disorders,n/r,1,0–3
+Patients with substance-related disorders,108,62,50–73
+Patients with schizophrenic and psychotic disorders,78,44,35–54
+Patients with mood disorders,211,120,104–137
+Patients with anxiety disorders,31,18,11–24
+Patients with personality disorders,107,61,50–73
+Patients with other disorders,369,211,189–232
+Patients with trauma- and stressor-related disorders,193,110,95–126
+"Patients with disruptive, impulse control and conduct disorders",54,31,23–39
+Patients with eating and feeding disorders,24,14,8–19
+Patients with tic disorders,n/r,2,0–4
+Patients with ADHD,45,26,18–33
+Patients residing in urban areas,498,424,387–461
+Patients residing in rural/remote areas,302,524,465–583
+Patients residing in income quintile 1 (lowest income) neighbourhoods,207,644,556–731
+Patients residing in income quintile 2 neighbourhoods,177,600,512–688
+Patients residing in income quintile 3 neighbourhoods,140,450,376–525
+Patients residing in income quintile 4 neighbourhoods,147,464,389–539
+Patients residing in income quintile 5 (highest income) neighbourhoods,129,363,300–426
+Patients residing in Zone 1 (Moncton Area),223,403,350–455
+Patients residing in Zone 2 (Saint John Area),121,300,247–354
+Patients residing in Zone 3 (Fredericton Area),146,327,274–380
+Patients residing in Zone 4 (Edmundston Area),108,1215,"986–1,444"
+Patients residing in Zone 5 (Campbellton Area),54,1183,"868–1,499"
+Patients residing in Zone 6 (Bathurst Area),108,796,646–946
+Patients residing in Zone 7 (Miramichi Area),40,512,353–671

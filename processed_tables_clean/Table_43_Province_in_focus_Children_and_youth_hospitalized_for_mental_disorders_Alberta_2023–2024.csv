@@ -1,0 +1,35 @@
+Hospitalized patients,N,Rate,95% CI
+Total stays for mental disorders,6914,595,581–609
+Total patients with mental disorders,4396,378,367–389
+Patients with 3 or more stays a year,454,,
+Median length of stay (days),6,,
+Female patients,2499,443,426–461
+Male patients,1888,315,301–330
+Patients age 5–9,106,36,29–43
+Patients age 10–14,744,253,234–271
+Patients age 15–17,1004,589,553–626
+Patients age 18–24,2542,629,604–653
+Patients with neurocognitive disorders,5,0,0–1
+Patients with substance-related disorders,749,64,60–69
+Patients with schizophrenic and psychotic disorders,748,64,60–69
+Patients with mood disorders,1230,106,100–112
+Patients with anxiety disorders,303,26,23–29
+Patients with personality disorders,383,33,30–36
+Patients with other disorders,1858,160,153–167
+   Patients with trauma- and stressor-related disorders,1052,90,85–96
+"   Patients with disruptive, impulse control and conduct disorders",203,18,15–20
+Patients with eating and feeding disorders,133,11,9–13
+Patients with tic disorders,10,1,0–1
+Patients with ADHD,228,20,17–22
+Patients residing in urban areas,3520,368,356–380
+Patients residing in rural/remote areas,826,400,373–427
+Patients residing in income quintile 1 (lowest income) neighbourhoods,1202,580,547–613
+Patients residing in income quintile 2 neighbourhoods,872,420,392–448
+Patients residing in income quintile 3 neighbourhoods,811,365,340–390
+Patients residing in income quintile 4 neighbourhoods,747,319,296–342
+Patients residing in income quintile 5 (highest income) neighbourhoods,712,293,272–315
+Patients residing in South Zone,381,446,401–491
+Patients residing in Calgary Zone,1923,428,408–447
+Patients residing in Central Zone,663,551,509–593
+Patients residing in Edmonton Zone,1064,278,262–295
+Patients residing in North Zone,360,289,259–318

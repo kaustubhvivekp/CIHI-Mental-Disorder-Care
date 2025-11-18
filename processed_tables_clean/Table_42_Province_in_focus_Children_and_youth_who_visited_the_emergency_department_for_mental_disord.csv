@@ -1,0 +1,34 @@
+Patients who visited the emergency department,N,Rate,95% CI
+Total visits for mental disorders,20753,1786,"1,761–1,810"
+Total patients with mental disorders,13999,1204,"1,184–1,224"
+Patients with 3 or more visits a year,1305,,
+Female patients,8011,1421,"1,390–1,452"
+Male patients,5978,999,"974–1,024"
+Patients age 5–9,458,156,142–171
+Patients age 10–14,2250,764,732–796
+Patients age 15–17,3118,1830,"1,766–1,894"
+Patients age 18–24,8173,2021,"1,977–2,065"
+Patients with neurocognitive disorders,155,13,11–15
+Patients with substance-related disorders,3933,338,328–349
+Patients with schizophrenic and psychotic disorders,932,80,75–85
+Patients with mood disorders,3290,283,273–293
+Patients with anxiety disorders,3643,313,303–324
+Patients with personality disorders,357,31,28–34
+Patients with other disorders,3976,342,331–353
+Patients with trauma- and stressor-related disorders,2706,233,224–242
+"Patients with disruptive, impulse control and conduct disorders",302,26,23–29
+Patients with eating and feeding disorders,123,11,9–12
+Patients with tic disorders,93,8,6–10
+Patients with ADHD,240,21,18–23
+Patients residing in urban areas,9997,1046,"1,025–1,066"
+Patients residing in rural/remote areas,3820,1850,"1,791–1,908"
+Patients residing in income quintile 1 (lowest income) neighbourhoods,3883,1873,"1,814–1,932"
+Patients residing in income quintile 2 neighbourhoods,2763,1331,"1,281–1,380"
+Patients residing in income quintile 3 neighbourhoods,2480,1116,"1,072–1,160"
+Patients residing in income quintile 4 neighbourhoods,2397,1024,"983–1,065"
+Patients residing in income quintile 5 (highest income) neighbourhoods,2290,943,904–981
+Patients residing in South Zone,1368,1602,"1,517–1,686"
+Patients residing in Calgary Zone,4523,1006,"976–1,035"
+Patients residing in Central Zone,1899,1579,"1,508–1,650"
+Patients residing in Edmonton Zone,3705,969,"938–1,001"
+Patients residing in North Zone,2478,1987,"1,908–2,065"
